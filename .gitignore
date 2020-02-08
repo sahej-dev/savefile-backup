@@ -1,0 +1,4 @@
+.vscode
+test.*
+credentials.py
+__pycache__
